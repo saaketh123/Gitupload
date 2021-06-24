@@ -10,5 +10,5 @@ public class BugattiVeyron implements Movable {
 	
 	public double getPrice() {
 		// TODO Auto-generated method stub
-		return 1000000;
+		return 1000;
 	} }
